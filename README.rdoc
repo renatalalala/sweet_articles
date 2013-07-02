@@ -1,0 +1,7 @@
+== Welcome to Rails
+
+To populate the database, run commands:
+rake db:create
+psql -d sweet_rails_articles_dev -f databasedump.sql
+
+end
